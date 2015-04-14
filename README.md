@@ -19,3 +19,8 @@ var themeIcons = function ($mdIconProvider) {
 angular.module("MyApp")
   .config(themeIcons);
 ```
+
+## Links
+* https://github.com/google/material-design-icons
+* https://github.com/angular/material
+* https://github.com/Urigo/angular-meteor

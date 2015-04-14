@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Material design icons from google",
   name:"planettraining:material-design-icons",
-  version: "0.0.2",
+  version: "0.0.3",
   git:"https://github.com/planet-training/material-design-icons.git"
 });
 
@@ -15,6 +15,7 @@ Package.onUse(function (api) {
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-content.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-navigation.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-toggle.svg',
-    'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-image.svg'
+    'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-image.svg',
+    'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-av.svg'
   ], "client");
 });

@@ -1,7 +1,8 @@
 Package.describe({
   summary: "Material design icons from google",
   name:"planettraining:material-design-icons",
-  version: "0.0.1"
+  version: "0.0.2",
+  git:"https://github.com/planet-training/material-design-icons.git"
 });
 
 Package.onUse(function (api) {

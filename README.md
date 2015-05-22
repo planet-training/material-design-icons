@@ -2,7 +2,7 @@
 Package to provide material design icons for your angular material design (ngMaterial) app.
 
 ## Initialize your angular icon provider
-The folder with all files of this package is available in the public url ```/packages/planettraining_material-design-icons/bower_components/material-design-icons/sprites/```. Currently we only publish the ```svg-sprites``` because we think this is the best way to go for including icons into your project. You can initialize the icons as following:
+The folder with all files of this package is available in the public url ```/packages/planettraining_material-design-icons/bower_components/material-design-icons/sprites/```. Currently we only publish the ```svg-sprites```. You can initialize the icons as following:
 
 ```
 angular.module("MyApp")

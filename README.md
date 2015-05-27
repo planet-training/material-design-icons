@@ -1,7 +1,9 @@
 # Google material design icons
-Package to provide material design icons for your angular material design (ngMaterial) app.
+Package to provide Google's material design icons for your Meteor app. Currently only the icon sprites are supported.
 
-## Initialize your angular icon provider
+## Usage
+
+### Example 1: use with angular material (ngMaterial)
 The folder with all files of this package is available in the public url ```/packages/planettraining_material-design-icons/bower_components/material-design-icons/sprites/```. Currently we only publish the ```svg-sprites```. You can initialize the icons as following:
 
 ```

@@ -7,7 +7,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('1.0');
-  api.addFiles([
+  api.addAssets([
     /* icon sprites */
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-action.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-alert.svg',

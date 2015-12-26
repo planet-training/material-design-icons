@@ -22,6 +22,7 @@ Package.onUse(function (api) {
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-maps.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-navigation.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-notification.svg',
+    'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-places.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-social.svg',
     'bower_components/material-design-icons/sprites/svg-sprite/svg-sprite-toggle.svg'
   ], "client");
